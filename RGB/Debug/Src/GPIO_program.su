@@ -1,0 +1,10 @@
+../Src/GPIO_program.c:11:4:GPIO_u8SetPinDirection	24	static
+../Src/GPIO_program.c:145:4:GPIO_u8SetPinValue	24	static
+../Src/GPIO_program.c:187:4:GPIO_u8GetPinValue	24	static
+../Src/GPIO_program.c:220:4:GPIO_u8SetPortDirection	24	static
+../Src/GPIO_program.c:358:4:GPIO_u8SetPortValue	24	static
+../Src/GPIO_program.c:391:4:GPIO_u8GetPortValue	24	static
+../Src/GPIO_program.c:404:4:GPIO_u8SetOutputPinType	24	static
+../Src/GPIO_program.c:487:4:GPIO_u8SetIntputPinType	24	static
+../Src/GPIO_program.c:596:4:GPIO_u8SetPinSpeed	24	static
+../Src/GPIO_program.c:728:6:GPIO_voidSetChannelValue	16	static
